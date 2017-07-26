@@ -1,5 +1,5 @@
-title: Sinclaire Manning's Website
-description: Professional Website for Sinclaire
+title: Sinclaire Manning
+description: Sinclaire Manning's Professional Website
 
 url: http://smanning3.github.io
 baseurl: ""
@@ -16,13 +16,19 @@ navigation:
    url: /index.html
  - title: About
    url: /about
+ - title: Research
+   url: /research
+ - title: CV
+   url: /cv
+ - title: Downloads
+   url: /downloads
  - title: Contact
    url: /contact
 
 social:
-   github: brianmaierjr
-   twitter: brianmaierjr
-   facebook: brianmaierjr
+   github: smanning3
+#   twitter: bluebarracuda33
+#   facebook: Sinclaire Manning
    email: smanning@astro.as.utexas.edu
 
 google_analytics: "UA-58263416-1"

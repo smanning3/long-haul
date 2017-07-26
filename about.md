@@ -1,14 +1,14 @@
 ---
 layout: default
-title: About Long Haul
+title: About Me
 ---
 
 <div class="post">
-	<h1 class="pageTitle">About Long Haul</h1>
-	<img src="{{ '/assets/img/touring.jpg' | prepend: site.baseurl }}" alt="">
-	<p class="intro">Long Haul is a minimal, long form <a href="http://jekyllrb.com">Jekyll</a> Theme. It can be used as is or customized to your hearts desire.</p>
-	<p>Long Haul was created in honor of all the hard working touring bicycles that have traversed the globe time and time again. Take it for a spin.</p>
-	<h2>Features</h2>
+	<h1 class="pageTitle">About Me</h1>
+	<img src="{{ '/assets/img/color.jpeg' | prepend: site.baseurl }}" alt="" height="500" width="375">
+	<p class="intro">I am currently a 3rd year graduate student and NSF Graduate Fellow pursuing my Ph.D. in the Department of Astronomy at the University of Texas at Austin.
+	<p></p>
+	<h2>Hobbies</h2>
 	<ul>
 		<li>Built with SASS + GULP + BROWSERSYNC + AUTOPREFIXER</li>
   		<li>SVG Social Icons from <a href="http://customizr.net/icons/">Customizr</a></li>
